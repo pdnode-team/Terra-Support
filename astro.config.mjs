@@ -6,19 +6,19 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Terra Support Community',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/pdnode-team/Terra-Support' }],
 			sidebar: [
 				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Start', slug: 'guides/start' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'FAQ',
+					items: [{ autogenerate: { directory: 'faq' } }],
 				},
 			],
 		}),
