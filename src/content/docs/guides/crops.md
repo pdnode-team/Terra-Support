@@ -17,3 +17,7 @@ Most crops will rotate every day or week.
 | Strawberries           | Free for 10 | N/A  | 1     | For Rent(W1)    |
 | Pineapples             | Free for 10 | N/A  | 1     | For Rent(W2)    |
 | Pumpkins               | Free for 10 | N/A  | 1     | For Rent(W3)    |
+
+\*Free for 10, meaning the first ten are free to get. (Usually rent crops)
+
+\*If no buy price, the crop cannot be purchased at shop
