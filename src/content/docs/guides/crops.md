@@ -20,4 +20,6 @@ Most crops will rotate every day or week.
 
 \*Free for 10, meaning the first ten are free to get. (Usually rent crops)
 
-\*If no buy price, the crop cannot be purchased at shop
+\*If there is no buy price, the crop cannot be purchased at the shop
+
+\*Every week after you pay your rent, you will get 20 coins
