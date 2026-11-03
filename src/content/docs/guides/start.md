@@ -1,6 +1,8 @@
 ---
 title: Start
 description: A good start to start
+sidebar:
+  order: 0
 ---
 
 First of all, welcome to Terra!
