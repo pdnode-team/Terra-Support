@@ -5,7 +5,7 @@ description: The buy & sell price
 
 # Crops price table
 
-Most crops will change each day/week (new crops)
+Most crops will rotate every day or week.
 
 | Name                   | Buy         | Sell | Water | Limits          |
 | ---------------------- | ----------- | ---- | ----- | --------------- |
