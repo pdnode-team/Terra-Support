@@ -22,4 +22,9 @@ Most crops will rotate every day or week.
 
 \*If there is no buy price, the crop cannot be purchased at the shop
 
-\*Every week after you pay your rent, you will get 20 coins
+\*Every week after you pay your rent, you will get 20 coins (times the multiplier)
+
+## Multiplier
+If your project is outstanding and earns the favor of the reviewers, or if they recognize the significant effort you have invested and the high-caliber results you have produced, you will receive a higher multiplier. 
+
+x0.8-1.5
