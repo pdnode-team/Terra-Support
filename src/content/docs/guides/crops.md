@@ -10,7 +10,7 @@ Most crops will rotate every day or week.
 | Name                                              | Buy              | Sell     | Water  | Limits                                                  |
 | ------------------------------------------------- | ---------------- | -------- | ------ | ------------------------------------------------------- |
 | Carrots                                           | Free for 10* / 5 | 25* / 30 | 1      | None                                                    |
-| Apples                                            | 5                | 30       | 1      | None                                                    |
+| Apples                                            | 5                | 30       | 1      | Replace by Apple Tree, use carrots instead!             |
 | Cabbages          <p style="color:red;">(Bad)</p> | 2                | 20       | 1      | None                                                    |
 | Bok Choy   <b>(Good)</b>                          | 10               | 37       | 1      | None                                                    |
 | Eggplant   <b>(Great)</b>                         | 15               | 75       | 2      | None                                                    |
@@ -43,6 +43,8 @@ Apple tree will wither in the third week no matter watered or not.
 First you need 5 water to make it become a tree then the second week you can water it 0-10 times. Every time you will get an apple ($55). So maximum 10 apples. And it will wither on third week
 
 For one Apple tree you only can water it 15 times in two weeks. (5,10)
+
+Please only buy Apple tree when you able to water it 9 times or more on second week. (Otherwise, eggplants will better)
 
 **If you want spent 15 hours extra:**
 
