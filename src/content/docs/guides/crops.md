@@ -7,19 +7,19 @@ description: The buy & sell price
 
 Most crops will rotate every day or week.
 
-| Name                                              | Buy              | Sell     | Water  | Limits                                                 |
-| ------------------------------------------------- | ---------------- | -------- | ------ | ------------------------------------------------------ |
-| Carrots                                           | Free for 10* / 5 | 25* / 30 | 1      | None                                                   |
-| Apples                                            | 5                | 30       | 1      | None                                                   |
-| Cabbages          <p style="color:red;">(Bad)</p> | 2                | 20       | 1      | None                                                   |
-| Bok Choy   <b>(Good)</b>                          | 10               | 37       | 1      | None                                                   |
-| Eggplant   <b>(Great)</b>                         | 15               | 75       | 2      | None                                                   |
-| Apple tree <b>(Best)</b>                          | 50               | 55 each  | 5+<=10 | Mst water 5 times and have no income in the first week |
-| Strawberries                                      | Free for 10      | N/A      | 1      | For Rent(W1)                                           |
-| Pineapples                                        | Free for 10      | N/A      | 1      | For Rent(W2)                                           |
-| Pumpkins                                          | Free for 10      | N/A      | 1      | For Rent(W3)                                           |
-| Bananas                                           | Free for 10      | N/A      | 1      | For Rent(W4)                                           |
-| Peaches                                           | Free for 10      | N/A      | 1      | For Rent(W5)                                           |
+| Name                                              | Buy              | Sell     | Water  | Limits                                                  |
+| ------------------------------------------------- | ---------------- | -------- | ------ | ------------------------------------------------------- |
+| Carrots                                           | Free for 10* / 5 | 25* / 30 | 1      | None                                                    |
+| Apples                                            | 5                | 30       | 1      | None                                                    |
+| Cabbages          <p style="color:red;">(Bad)</p> | 2                | 20       | 1      | None                                                    |
+| Bok Choy   <b>(Good)</b>                          | 10               | 37       | 1      | None                                                    |
+| Eggplant   <b>(Great)</b>                         | 15               | 75       | 2      | None                                                    |
+| Apple tree <b>(Best)</b>                          | 50               | 55 each  | 5+<=10 | Must water 5 times and have no income in the first week |
+| Strawberries                                      | Free for 10      | N/A      | 1      | For Rent(W1)                                            |
+| Pineapples                                        | Free for 10      | N/A      | 1      | For Rent(W2)                                            |
+| Pumpkins                                          | Free for 10      | N/A      | 1      | For Rent(W3)                                            |
+| Bananas                                           | Free for 10      | N/A      | 1      | For Rent(W4)                                            |
+| Peaches                                           | Free for 10      | N/A      | 1      | For Rent(W5)                                            |
 
 ## Rank
 Apple tree > Eggplant > Apples = Carrots > Cabbages
